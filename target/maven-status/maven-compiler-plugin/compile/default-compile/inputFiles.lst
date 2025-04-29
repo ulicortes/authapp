@@ -1,0 +1,14 @@
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/LockerAuthApplication.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/config/ApplicationConfig.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/config/SecurityConfig.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/controller/AuthController.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/dao/UserDao.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/entity/Role.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/entity/Usuarios.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/jwt/JwtAuthFilter.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/repository/UserRepository.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/request/LoginRequest.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/request/RegisterRequest.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/response/AuthResponse.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/service/JwtService.java
+/home/uli/Documentos/lockerAuth/src/main/java/com/example/lockerAuth/service/UserService.java
